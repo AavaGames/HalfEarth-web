@@ -1,1 +1,3 @@
-# HalfEarth-web
+# Half Earth
+
+A climate change web novel.
